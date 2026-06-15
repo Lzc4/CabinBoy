@@ -59,6 +59,21 @@ TheLongDark/
 
 ---
 
+## 🔦 Where to find it
+
+CabinBoy has **no fixed map location** — it spawns randomly via loot tables, so you can find it in these container types anywhere in the world:
+
+| Container | Spawn weight |
+|---|---|
+| 🗄️ Desks | 2 (most likely) |
+| 🗃️ Low drawers | 1 |
+| 📦 Plastic boxes | 1 |
+| 🎒 Backpacks | 1 |
+
+> 💡 Loot in *The Long Dark* is randomized per save — keep searching desks and containers, especially in houses and offices.
+
+---
+
 ## 🎛️ Controls
 
 | Action | Key |

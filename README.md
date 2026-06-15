@@ -134,7 +134,7 @@ The output `CabinBoy.dll` lands in `bin/Release/net6.0/`. Copy it into `TheLongD
 
 ## 🙏 Credits
 
-- **CabinBoy** — Luca & Marcy (Patchworkers Union)
+- **CabinBoy** — Lzc4 & Marcy([the Person who made the awesome looking 3d Modell](https://github.com/DemonBunnyBon))
 - **[UnityGB](https://github.com/Inkdrop/UnityGB)** — Game Boy emulation core
 - **[MelonLoader](https://github.com/LavaGang/MelonLoader)** & **[ModComponent](https://github.com/DigitalzombieTLD/ModComponent)** — modding framework
 

@@ -1,0 +1,12 @@
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\obj\Debug\net6.0\CabinBoy.csproj.AssemblyReference.cache
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\obj\Debug\net6.0\CabinBoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\obj\Debug\net6.0\CabinBoy.AssemblyInfoInputs.cache
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\obj\Debug\net6.0\CabinBoy.AssemblyInfo.cs
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\obj\Debug\net6.0\CabinBoy.csproj.CoreCompileInputs.cache
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\bin\Debug\net6.0\CabinBoy.deps.json
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\bin\Debug\net6.0\CabinBoy.dll
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\bin\Debug\net6.0\CabinBoy.pdb
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\obj\Debug\net6.0\CabinBoy.dll
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\obj\Debug\net6.0\refint\CabinBoy.dll
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\obj\Debug\net6.0\CabinBoy.pdb
+C:\Users\lscha\OneDrive\Desktop\Modding\CabinBoy\obj\Debug\net6.0\ref\CabinBoy.dll

@@ -69,6 +69,8 @@ CabinBoy has **no fixed map location** — it spawns randomly via loot tables, s
 | 🗃️ Low drawers | 1 |
 | 📦 Plastic boxes | 1 |
 | 🎒 Backpacks | 1 |
+And much more!
+Safe Spawn in Safes
 
 > 💡 Loot in *The Long Dark* is randomized per save — keep searching desks and containers, especially in houses and offices.
 
